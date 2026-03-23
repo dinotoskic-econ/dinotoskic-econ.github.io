@@ -24,4 +24,4 @@ I am a PhD Candidate in Economics specializing in Applied Microeconomic, and Pub
 
 ## 📫 Contact
 * **Institutional Email:** [dino.toskic@bse.eu]
-* **Profiles:** [LinkedIn](https://www.linkedin.com/in/dinotoskic/) | [Google Scholar](coming soon hopefully)
+* **Profile:** [LinkedIn](https://www.linkedin.com/in/dinotoskic/) | 
