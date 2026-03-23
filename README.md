@@ -23,5 +23,5 @@ I am a PhD Candidate in Economics specializing in Applied Microeconomic, and Pub
 * **Reproducibility:** Full version control via Git; papers typeset in LaTeX.
 
 ## 📫 Contact
-* **Institutional Email:** [dino.toskic@bse.eu]
+* **Institutional Email:** [dino.toskic@bse.eu] [dino.toskic@phd.uniba.it]
 * **Profile:** [LinkedIn](https://www.linkedin.com/in/dinotoskic/) | 
